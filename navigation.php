@@ -15,7 +15,7 @@
 	        <ul class="nav navbar-nav navbar-right">
 	        	<li class="<?php if($currentPage =='index'){echo 'active';}?>"><a href="/"> Toku reo </a></li>
 
-	        	<li class="<?php if($currentPage =='mihi'){echo 'active';}?>"><a href="/Toku-reo/mihi.php"> Toku reo </a></li>
+	        	<li class="<?php if($currentPage =='mihi'){echo 'active';}?>"><a href="/Toku-reo/mihi.php"> Nga mihi </a></li>
 
 	        </ul>
 
